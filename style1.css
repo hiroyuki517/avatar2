@@ -126,6 +126,10 @@ body {
 }
 
 @media(max-width:680px){
+    body {
+        background-image: url(./img2/back-image-sp.jpg);
+        object-position: center 100%;
+    }
     #header h2 {
         font-size: 1.8rem;
         font-weight: normal;
@@ -141,8 +145,8 @@ body {
         width: 28%;
     }
     #footer {
-    height: 20rem;
-    top: calc(100vh - 20rem);
+    height: 13rem;
+    top: calc(100vh - 13rem);
 }
     #article {
         width: 100%; 
