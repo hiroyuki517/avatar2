@@ -147,7 +147,7 @@ body {
     #footer {
     height: 13rem;
     top: calc(100vh - 13rem);
-}
+    }
     #article {
         width: 100%; 
         flex-direction: column;
