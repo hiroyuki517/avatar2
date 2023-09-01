@@ -125,7 +125,7 @@ body {
     text-decoration: underline;
 }
 
-@media(max-width:680px){
+@media(max-width:600px){
     body {
         background-image: url(./img2/back-image-sp.jpg);
         object-position: center 100%;
