@@ -11,7 +11,6 @@ $(function(){
         $("#title li").hide();
         $("#text li").hide();
 
-        //関数化
         $("#main-image").children().eq(indexNum).addClass("vision");
         $("#title").children().eq(indexNum).addClass("vision");
         $("#text").children().eq(indexNum).addClass("vision");
